@@ -1,6 +1,6 @@
 ## Hi 👋,  I'm Lucas Daniel
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasDaniel0&color=yellow" alt="Profile views" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=LucasDaniel0&color=yellow" alt="Profile views" /></p>
 <div align="center">
   <a href="https://github.com/LucasDaniel0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDaniel0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,10 +25,10 @@
     <a href="https://codepen.io/lucasdaniel0" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-lucasdaniel0-05122A?style=flat&logo=codepen" alt="codepen"/>
     </a>
-    <a href="https://twitter.com/lucaas_py" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-lucaas_py-05122A?style=flat&logo=twitter" alt="twitter"/>  
+    <a href="https://twitter.com/lucaaspy0" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-lucaaspy0-05122A?style=flat&logo=twitter" alt="twitter"/>  
     </a>
-    <a href="https://linkedin.com/in/lucasdaniel" target="_blank">
+    <a href="https://www.linkedin.com/in/lucas-daniel-781376231/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-lucasdaniel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
     </a>
     <a href="https://instagram.com/lucaas.py" target="_blank">
